@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zosoman17
+- 👀 I’m interested in Python and developing software
+- 🌱 I’m currently learning Python and C++
